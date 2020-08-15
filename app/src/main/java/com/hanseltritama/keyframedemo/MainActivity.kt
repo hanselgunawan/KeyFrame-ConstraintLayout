@@ -6,8 +6,6 @@ import android.transition.TransitionManager
 import android.view.View
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.constraintlayout.widget.ConstraintSet
-import kotlinx.android.synthetic.main.activity_main.*
-import kotlinx.android.synthetic.main.activity_main_second.*
 
 class MainActivity : AppCompatActivity() {
 
